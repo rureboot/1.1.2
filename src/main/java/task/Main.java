@@ -1,6 +1,8 @@
 package task;
 
 public class Main {
-    public static void main(String[] args) { System.out.println("Hello m8!");
+    public static void main(String[] args) {
+
+        System.out.println("Hello m8!");
     }
 }
